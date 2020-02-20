@@ -1,0 +1,18 @@
+
+
+.list-title {
+    font-size: 0.6rem bold;
+    color: #29c7ac;
+    padding: .5rem 0.5rem;
+    background-color: #f7c5a8;
+    opacity: 0.5;
+}
+.list-icon span {
+    padding-right: 1rem;
+    display: inline-block;
+}
+
+.list-context {
+    color: #678a74;
+    padding: 1rem 1rem;
+}
